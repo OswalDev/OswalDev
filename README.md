@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=OswalDev)
-My name is Oswaldo, and i'm React frontend Developer
+My name is Oswaldo, and i'm React frontend Developer.
 
 <!--
 **OswalDev/OswalDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
