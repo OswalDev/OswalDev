@@ -7,7 +7,7 @@ My name is Oswaldo, and i'm React frontend Developer.
 After first steps of coding with C and C++, I'm currently learning and building projects in MERN stack. I love to build, learn and have fun along the way.
 
 
-### Contact me
+### Contact me :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/oswaldojsotog/)
 
