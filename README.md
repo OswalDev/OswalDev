@@ -1,7 +1,7 @@
 ### Hi there
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-My name is Oswaldo,  and i'm React frontend Developer.
+My name is Oswaldo, and i'm React frontend Developer.
 
 
 After first steps of coding with C and C++, i'm currently learning and building projects in the MERN stack. I love to build, learn and have fun along the way.
