@@ -1,10 +1,9 @@
-### Hi there
+### Hey there 👋
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2>
 
-My name is Oswaldo, and i'm React frontend Developer.
+My name is Oswaldo Soto, and i'm React frontend Developer.
 
-
-After first steps of coding with C and C++, i'm currently learning and building projects in the MERN stack. I love to build, learn and have fun along the way.
+After my first steps of coding with C and C++, i'm currently learning and building PWA's using the MERN stack. I love to build, learn and have fun along the way.
 
 
 ### Contact me :)
