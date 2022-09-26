@@ -1,5 +1,5 @@
 ### Hey there 👋
-![alt text](https://github.com/OswalDev/OswalDev/blob/main/HitHubGIF.jpg?raw=true)
+![alt text](https://github.com/OswalDev/OswalDev/blob/main/HitHubGIF.gif?raw=true)
 
 My name is Oswaldo Soto, and i'm React frontend Developer.
 
