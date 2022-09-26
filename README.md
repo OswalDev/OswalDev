@@ -24,6 +24,11 @@ After my first steps of coding with C and C++, i'm currently learning and buildi
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
 ![PHP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![PHP]([https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white))
+![PHP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+
 
 <!--
 **OswalDev/OswalDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
