@@ -14,7 +14,10 @@ After my first steps of coding with C and C++, i'm currently learning and buildi
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
-![HTML](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
+![PHP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
+![CPP]([https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white))
+![C]([https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white))
 
 ### Technologies and frameworks
 
@@ -23,9 +26,7 @@ After my first steps of coding with C and C++, i'm currently learning and buildi
 ![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
-![PHP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![PHP]([https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white))
-![PHP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
