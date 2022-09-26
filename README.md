@@ -1,5 +1,5 @@
 ### Hey there 👋
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2>
+![alt text](https://github.com/OswalDev/OswalDev/blob/main/HitHubGIF.jpg?raw=true)
 
 My name is Oswaldo Soto, and i'm React frontend Developer.
 
