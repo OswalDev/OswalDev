@@ -3,7 +3,7 @@
 
 My name is Oswaldo Soto, and i'm React frontend Developer.
 
-After my first steps of coding with C and C++, i'm currently learning and building PWA's using the MERN stack. I love to build, learn and have fun along the way.
+After my first steps of coding with C and C++ where i could find my passion for Algorithms and Data Structures i started working more with JavaScript and PHP, i'm currently learning and building PWA's using the MERN stack. I love to build, learn and have fun along the way.
 
 ### 💻 Languages
 
