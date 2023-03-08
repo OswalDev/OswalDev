@@ -1,7 +1,7 @@
 ### ⚡ Hey there ⚡
 ![GitHubPNG](https://user-images.githubusercontent.com/26017333/192372810-6df32dcc-65a8-4caa-9e23-c7205da5a65f.png)
 
-My name is Oswaldo Soto, and i'm React frontend Developer.
+My name is Oswaldo Soto, and i'm React Software Developer.
 
 After my first steps of coding with C and C++ where i could find my passion for Algorithms and Data Structures i started working more with JavaScript and PHP, i'm currently learning and building PWA's using the MERN stack. I love to build, learn and have fun along the way.
 
