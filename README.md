@@ -1,6 +1,8 @@
 ### ⚡ Hey there ⚡
 ![GitHubPNG](https://user-images.githubusercontent.com/26017333/192372810-6df32dcc-65a8-4caa-9e23-c7205da5a65f.png)
 
+
+
 Greetings! I'm Oswaldo Soto, a passionate Frontend Software Developer with a knack for problem-solving.
 
 From my early encounters with coding in C and C++, I discovered my true passion for Algorithms and Data Structures. As my journey progressed, I delved deeper into the world of JavaScript and PHP, honing my skills and expanding my knowledge. Currently, my focus lies in mastering the development of Progressive Web Applications (PWAs) using the MERN (MongoDB, Express.js, React, and Node.js) stack.
