@@ -1,9 +1,15 @@
 ### ⚡ Hey there ⚡
 ![GitHubPNG](https://user-images.githubusercontent.com/26017333/192372810-6df32dcc-65a8-4caa-9e23-c7205da5a65f.png)
 
-My name is Oswaldo Soto, and i'm React Software Developer.
+Greetings! I'm Oswaldo Soto, a passionate Frontend Software Developer with a knack for problem-solving.
 
-After my first steps of coding with C and C++ where i could find my passion for Algorithms and Data Structures i started working more with JavaScript and PHP, i'm currently learning and building PWA's using the MERN stack. I love to build, learn and have fun along the way.
+From my early encounters with coding in C and C++, I discovered my true passion for Algorithms and Data Structures. As my journey progressed, I delved deeper into the world of JavaScript and PHP, honing my skills and expanding my knowledge. Currently, my focus lies in mastering the development of Progressive Web Applications (PWAs) using the MERN (MongoDB, Express.js, React, and Node.js) stack.
+
+For me, software development is not just a profession; it's a source of endless joy and fulfillment. The process of building something from scratch, continuously learning, and overcoming challenges along the way brings me immense satisfaction.
+
+When I'm not immersed in coding, you'll often find me exploring new technologies, seeking out innovative solutions, and staying up-to-date with the latest industry trends. I believe that growth happens when we push our boundaries and step out of our comfort zones.
+
+Let's embark on this exciting journey together—building, learning, and having fun along the way.
 
 ### 💻 Languages
 
