@@ -20,6 +20,7 @@ Let's embark on this exciting journey together—building, learning, and having 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![ASTRO](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 )
 
